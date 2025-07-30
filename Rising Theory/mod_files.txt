@@ -1,3 +1,2 @@
-add main/data000/event/ev2020.evn
-add main/data001/st1/r160.dat
+add BGM Fixes.asi
 add mod.ini
