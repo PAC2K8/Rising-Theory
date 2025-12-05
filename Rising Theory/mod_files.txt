@@ -1,1 +1,2 @@
+add BGM Fixes.asi
 add mod.ini
