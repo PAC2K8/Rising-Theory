@@ -1,3 +1,6 @@
+## Rising Theory v1.0.3
+- Fixed Bleed It Out being the default option for It Has To Be This Way
+  
 ## Rising Theory v1.0.2
 - Fixed issue regarding The Emptiness Machine not starting after Mistral's intro cutscene 
 
